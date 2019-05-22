@@ -5,7 +5,7 @@ Protirus can add value to your current implementation of Symantec DLP through th
 
 - [Crypter](https://github.com/Protirus/Crypter)
   - Crypter is a set of DLP Server Flex Responses to encrypt/decrypt SharePoint files, from a Discover Scan.
-- Redactor
+- [Redactor](https://github.com/Protirus/Redactor)
   - A Server Flex Response which uses the Credit Card Data Identifier to redact a Discover Scan incident file.
   - This includes Luhn Check, 
   - Supported file types include `docx`, `xlsx`, `pptx`, `vsdx`, `txt`/`csv`.
