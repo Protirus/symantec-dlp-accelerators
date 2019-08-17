@@ -11,6 +11,8 @@ Protirus can add value to your current implementation of Symantec DLP through th
   - Supported file types include `docx`, `xlsx`, `pptx`, `txt`/`csv`.
 - [Tagger](https://github.com/Protirus/Tagger)
   - Tagger is DLP Server Flex response to allow ICT integration.
+- [Tagger-AIP](https://github.com/Protirus/Tagger-AIP)
+  - Tagger AIP is a Symantec DLP server side flex response to allow Microsoft AIP integration.
 - [DLP Dashboard](https://github.com/Protirus/DLP-Dashboard)
   - Is a Reporting Dashboard to gain insight into incidents raised by your employees.
 - [SQL](https://github.com/Protirus/Symantec-DLP-SQL)
